@@ -1,3 +1,3 @@
 # Smit's Website
-This is my personal Website that I have created using HTML, CSS, and JavaScript. 
-# smitbhavsar.ca
+This is my personal website that I created using HTML, CSS, and JavaScript. 
+# smitbhavsar.com
